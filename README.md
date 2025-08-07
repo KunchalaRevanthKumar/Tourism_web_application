@@ -8,7 +8,7 @@ Live Demo: Alternatively, get a glimpse of Adventour in action by visiting our l
 
 <div align="center">
   <br />
-  <a href="https://iamit010.github.io/adventour-tourism-website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://kunchalarevanthkumar.github.io/Tourism_web_application/"><strong>➥ Live Demo</strong></a>
 </div>
 
 
